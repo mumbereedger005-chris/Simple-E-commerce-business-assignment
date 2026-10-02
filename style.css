@@ -562,3 +562,18 @@ footer {
   .ceo-inner { flex-direction: column; text-align: center; }
   .ceo-stats { justify-content: center; }
 }
+.team-section {
+  background: var(--light-bg);
+  padding: 72px 24px;
+}
+.team-member {
+  text-align: center;
+
+}
+.team-member img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+ 
+  margin-bottom: 16px;
+}
